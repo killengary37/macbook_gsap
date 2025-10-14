@@ -1,5 +1,6 @@
 import {useMediaQuery} from "react-responsive";
 import {useGSAP} from "@gsap/react";
+import gsap from "gsap";
 
 const Highlights = () => {
   const isMobile = useMediaQuery({query: '(max-width: 1024px)'});

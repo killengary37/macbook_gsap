@@ -1,16 +1,47 @@
-# React + Vite
+# 💻 MacBook GSAP 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, animation-rich web experience inspired by MacBook-style UI, built using GSAP and modern frontend technologies.
 
-Currently, two official plugins are available:
+This project showcases smooth, high-performance animations and micro-interactions designed to create a visually engaging and immersive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎬 Smooth, high-performance animations powered by GSAP
+- 🖱️ Interactive UI elements and transitions
+- 📱 Fully responsive design
+- ⚡ Fast deployment with Vercel
+- 🎨 Modern, minimal interface inspired by Apple-style design
+- 🧠 Scroll-based and motion-driven effects
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+
+👉 https://macbook-gsap-delta.vercel.app/
+
+---
+
+## 🧱 Tech Stack
+
+- **Frontend:** React / Next.js
+- **Animations:** GSAP (GreenSock Animation Platform)
+- **Styling:** CSS / Tailwind (or similar)
+- **Deployment:** Vercel
+
+---
+
+## 🎞️ About GSAP
+
+GSAP (GreenSock Animation Platform) is a powerful JavaScript library used to create high-performance, complex animations for the web. It allows developers to animate CSS, SVG, and DOM elements with precision and efficiency. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/macbook-gsap-delta.git
+cd macbook-gsap-delta
